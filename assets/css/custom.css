@@ -137,8 +137,13 @@ section h3 {
 }
 .row {
 	text-align: center;
-	padding-left: 120px;
 }
 .lead {
 	text-align: center;
+}
+#who-benefits {
+	background:white;
+}
+.col-sm-5 {
+	padding-left: 150px;
 }
